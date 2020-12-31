@@ -6,11 +6,11 @@ Environment Settings
 =
 We use the framework pytorch.\
 · pytorch version：'1.5.1'\
-· python version: '3.6'\
+· python version: '3.6'
 
 student.py
 =
-The model is composed of a graph convolutional network, an attentional mechanism and multi-layer projection layer\
+The model is composed of a graph convolutional network, an attentional mechanism and multi-layer projection layer
 
 Dataset
 =
